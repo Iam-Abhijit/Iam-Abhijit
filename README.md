@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/iam_abhijit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iam_abhijit" height="30" width="40" /></a>
-<a href="https://twitter.com/iam_abhijit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_abhijit" height="30" width="40" /></a>
+<a href="https://twitter.com/_iam_abhijit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_abhijit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iam_abhijit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iam_abhijit" height="30" width="40" /></a>
 <a href="https://fb.com/abhijit das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhijit das" height="30" width="40" /></a>
 <a href="https://instagram.com/_iam_abhijit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_iam_abhijit_" height="30" width="40" /></a>
