@@ -1,43 +1,67 @@
 <div align="center">
   <h1>Hi there, I'm Abhijit Das 👋</h1>
   <h3>A passionate full-stack developer from India 🇮🇳</h3>
-  <a href="https://twitter.com/_iam_abhijit_" target="_blank"><img src="https://img.shields.io/twitter/follow/_iam_abhijit_?logo=twitter&style=for-the-badge&color=1DA1F2&label=Follow" alt="Twitter follow button"></a>
+  <a href="https://twitter.com/_iam_abhijit_" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/_iam_abhijit_?logo=twitter&style=for-the-badge&color=1DA1F2&label=Follow" alt="Twitter follow button">
+  </a>
 </div>
 
-### About Me
+---
+
+### About Me  
 - 🔭 I’m currently working on **[QuickGather](https://github.com/Iam-Abhijit/QuickGather)**
 - 🌱 I’m currently learning **Electron.js and software development best practices**
 - 👨‍💻 All of my projects are available at **[https://iam-abhijit.github.io/abhijit/](https://iam-abhijit.github.io/abhijit/)**
-- 📫 How to reach me: **[abhijitdas42856@gmail.com](mailto:abhijitdas42856@gmail.com)**
-- ⚡ Fun fact: I love to explore new technologies and build cool things.
+- 📫 Reach me at **[abhijitdas42856@gmail.com](mailto:abhijitdas42856@gmail.com)**
+- ⚡ Fun fact: I love exploring new technologies and building cool things.
 
-### ✍️ Blog Posts
+---
+
+### ✍️ Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-  
+
 <!-- BLOG-POST-LIST:END -->
 
+---
 
-### 🤝 Connect with me
+## 🧩 Contributions
+
 <p align="center">
-  <a href="https://linkedin.com/in/iam_abhijit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/_iam_abhijit_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://codepen.io/iam_abhijit" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
-  <a href="https://instagram.com/_iam_abhijit_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://fb.com/abhijit.das" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <img src="https://github-contributor-stats.vercel.app/api?username=iam-abhijit&limit=5&theme=onedark&combine_all_yearly_contributions=true" />
 </p>
 
-### 📊 My GitHub Stats & Trophies
 <p align="center">
-  <!-- GitHub Stats -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=iam-abhijit&show_icons=true&locale=en&theme=onedark" /> -->
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=iam-abhijit&theme=onedark" alt="Abhijit's GitHub Streak" align="center" />
-  <br>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-abhijit&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Abhijit's Top Languages" /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-abhijit&theme=react-dark&hide_border=true" />
 </p>
 
+---
 
-### 🛠️ Languages and Tools
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Iam-Abhijit/Iam-Abhijit/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iam-abhijit&theme=onedark&no-frame=true&column=7" />
+</p>
+
+---
+
+## 📊 My GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iam-abhijit&theme=onedark" alt="Abhijit's GitHub Streak" />
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
 <p align="center" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px; justify-content: center;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -62,7 +86,11 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-### ❤️ Support
+---
+
+### ❤️ Support  
 <p align="center">
-  <a href="https://www.buymeacoffee.com/iam_abhijit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/iam_abhijit" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px; width: 180px;">
+  </a>
 </p>
