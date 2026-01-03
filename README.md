@@ -25,8 +25,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently building **[QuickGather](https://github.com/Iam-Abhijit/QuickGather)** - a modern community platform.
-- 🌱 Exploring the depths of **Electron.js** and mastering **Software Architecture**.
+- 🔭 I’m currently building **ServiceMitra** - a platform where all services are at your doorstep.
+- 🌱 I am currently exploring **application and software development**.
 - 💻 I love turning complex problems into simple, beautiful, and intuitive designs.
 - ⚡ Fun fact: I believe code is like poetry; it should be clean, efficient, and meaningful.
 
